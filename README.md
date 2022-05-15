@@ -36,8 +36,9 @@ https://github.com/r3g492/dataGatherer
 2. WASM + TS/JS snake game deployed to Heroku   
 https://my-wasm-game.herokuapp.com/
 
-
-  
+3. Kafka producer example   
+https://github.com/r3g492/fileLogProducer
+    
   
 - 🐱‍👤 Contact  
 kangggunw3492@gmail.com
