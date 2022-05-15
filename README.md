@@ -33,7 +33,7 @@
 1. Barebone template of data uploading API server for local network with sercurity limitations  
 https://github.com/r3g492/dataGatherer  
   
-2. Snake game deployed to Heroku   
+2. WASM + TS/JS snake game deployed to Heroku   
 https://my-wasm-game.herokuapp.com/
 
 
