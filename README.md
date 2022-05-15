@@ -18,7 +18,7 @@
     
 - 🌱 I’m currently learning ...  
 1. Rust for games and servers
-2. How to be a professinal developer
+2. How to be a happy developer  
   
   
 - 👯 I’m looking to collaborate on ...  
