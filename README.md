@@ -6,6 +6,8 @@
     Responsibilities : MLOps pipeline automation, Data trasfer server  
 2. Infra Management :  
     Servers, Sercurity management, Network planning ...
+3. Enterprise automation by RPA, Python
+  
   
     
 - 🐱‍🚀 I had worked on ...  
