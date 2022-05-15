@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...  
 1. Smart Factory MLOps :   
-    Stacks : Java/Spring, Rust/Lambda, Python/AWS SageMaker, AWS Kinesis, Apache Kafka, Ubuntu   
+    Stacks : Java/Spring, Rust/Lambda, Python/AWS SageMaker, AWS Kinesis, Apache Kafka, AWS DynamoDB, MSSQL, Ubuntu   
     Responsibilities : MLOps pipeline automation, Data trasfer server  
 2. Infra Management :  
     Servers, Sercurity management, Network planning ...
