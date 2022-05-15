@@ -28,7 +28,7 @@
   
   
 
-- ✔ Some of the things I've built 
+- ✔ Some of the things I've built outside my full time job ..
 
 1. Barebone template of data uploading API server for local network with sercurity limitations  
 https://github.com/r3g492/dataGatherer  
