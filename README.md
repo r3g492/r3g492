@@ -3,7 +3,7 @@
 ## - 🔭 I’m currently working on ...   
 #####  (int) == confidence score (1-5)  
 1. Smart Factory MLOps :   
-    Stacks : Java/Spring(3), Rust/Lambda(3), Python/AWS SageMaker(3), AWS Kinesis(2), Apache Kafka(2), AWS DynamoDB(2), AWS S3(3), MSSQL(1), Ubuntu(2)   
+    Stacks : Java/Spring(3), Rust/Lambda(3), Python/AWS SageMaker(3), AWS Kinesis(2), Apache Kafka(2), AWS DynamoDB(2), AWS S3(3), MSSQL(1), Ubuntu(2)     
     Responsibilities : MLOps pipeline automation, Data trasfer server  
 2. Infra Management :  
     Servers, Sercurity management, Network planning ...
@@ -13,7 +13,7 @@
     
 ## - 🐱‍🚀 I had worked on ...  
 1. Embedded, real-time application on vehicle :  
-    Stacks : C(3), Infineon tools(1), IBM Rhapsody(3), Matlab/Simulink(3), A-SPICE(2), Tresos(build)(3), MicroController compilers(1), T32(debug)(4) ..
+    Stacks : C(3), Infineon tools(1), IBM Rhapsody(3), Matlab/Simulink(3), A-SPICE(2), Tresos(build)(3), MicroController compilers(1), T32(debug)(4)     
     Responsibilities : Dynamic application programming, Testing, Layering A-SPICE abstractions     
   
     
