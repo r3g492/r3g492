@@ -1,48 +1,24 @@
 ### Hello,  
-
-## - 🔭 I’m currently working on ...   
-#####  (int) == confidence score (1-5)  
-1. Smart Factory MLOps :   
-    Stacks : Java/Spring(3), Rust/Lambda(3), Python/AWS SageMaker(3), AWS Kinesis(2), Apache Kafka(2), AWS DynamoDB(2), AWS S3(3), MSSQL(1), Ubuntu(2)     
-    Responsibilities : MLOps pipeline automation, Data trasfer server  
-2. Infra Management :  
-    Servers, Sercurity management, Network planning ...
-3. Enterprise automation by RPA, Python
-  
-  
     
-## - 🐱‍🚀 I had worked on ...  
-1. Embedded, real-time application on vehicle :  
-    Stacks : C(3), Infineon tools(1), IBM Rhapsody(3), Matlab/Simulink(3), A-SPICE(2), Tresos(build)(3), MicroController compilers(1), T32(debug)(4)     
-    Responsibilities : Dynamic application programming, Testing, Layering A-SPICE abstractions     
-  
+## - 🐱‍🚀 i have worked on ...  
+1. embedded, real-time application on vehicle :  
+    stacks : c(3), infineon tools(1), ibm rhapsody(3), matlab/simulink(3), aspice(2), tresos(build)(3), microcontroller compilers(1), t32(debug)(4)     
+    responsibilities : dynamic application programming, testing, layering aspice abstractions 
+2. smart factory mlops :   
+    stacks : java/spring(3), rust/lambda(3), python/aws sagemaker(3), aws kinesis(2), apache kafka(2), aws dynamodb(2), aws s3(3), mssql(1), ubuntu(2)     
+    responsibilities : mlops pipeline automation, data trasfer server  
+3. kotlin/spring boot web service : 
+    push notification server : kafka, postgresql, firebase
+    maintaining pages : vaadin, wasm, js(ts)
+    ci/cd : aws code pipeline and stuff 
+    search/map : elasticsearch, kibana
     
-## - 🌱 I’m currently learning ...  
-1. Rust for games and servers
-2. How to be a happy developer  
+## - 🌱 at my free time, i’m learning ...  
+1. rust language
+2. cs books
+3. wasm
+4. algorithms
   
-  
-## - 👯 I’m looking to collaborate on ...  
-    Open source, something I can be helpful to others ..
-  
-  
-## - 🤔 I’m looking for help with ...  
-    Production experience and cooperation experience ..
-  
-  
-
-## - ✔ Some of the things I've built outside my full time job ..
-
-1. Barebone template of data uploading API server for local network with sercurity limitations  
-https://github.com/r3g492/dataGatherer  
-  
-2. WASM + TS/JS snake game deployed to Heroku   
-https://my-wasm-game.herokuapp.com/
-
-3. Kafka producer example   
-https://github.com/r3g492/fileLogProducer
-    
-  
-## - 🐱‍👤 Contact  
+## - 🐱‍👤 contact  
 kangggunw3492@gmail.com
 
