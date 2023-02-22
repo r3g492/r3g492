@@ -1,5 +1,3 @@
-### Hello,  
-    
 ## - 🐱‍🚀 i have worked on ...  
 1. embedded, real-time application on vehicle :  
     stacks : c(3), infineon tools(1), ibm rhapsody(3), matlab/simulink(3), aspice(2), tresos(build)(3), microcontroller compilers(1), t32(debug)(4)     
