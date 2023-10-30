@@ -10,15 +10,10 @@ https://r3g492.github.io/skills-github-pages/
     responsibilities : mlops pipeline automation, data trasfer server  
 3. kotlin/spring boot web service : 
     push notification server : kafka, postgresql, firebase
+    search server : kafka, elasticsearch, debezium
     maintaining pages : vaadin, wasm, js(ts)
     ci/cd : aws code pipeline and stuff 
     search/map : elasticsearch, kibana
-    
-## - 🌱 at my free time, i’m learning ...  
-1. rust language
-2. cs books
-3. wasm
-4. algorithms
   
 ## - 🐱‍👤 contact  
 kangggunw3492@gmail.com
