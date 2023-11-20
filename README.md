@@ -1,7 +1,7 @@
-## [blog](https://r3g492.github.io/skills-github-pages/)
+# [blog](https://r3g492.github.io/skills-github-pages/)
 
-## - 🐱‍🚀 i have worked on ...  
-1. kotlin/spring boot web service :  
+# - 🐱‍🚀 i have worked on ...  
+## kotlin/spring boot web service developer at [HTBeyond](https://htbeyond.com/) :  
     ### push notification server
        stacks : kafka, postgresql, firebase
        - send push to residents
@@ -18,14 +18,14 @@
      
     ### ci/cd : aws code pipeline and github
    
-3. embedded, real-time application on vehicle :  
+## embedded, real-time application on vehicle engineer at [Mando](https://www.hlmando.com/ko/main.do) :  
     stacks : c, microcontroller
     responsibilities : dynamic application programming, testing, layering aspice abstractions
    
-4. smart factory mlops :   
+## smart factory mlops engineer at [Mando](https://www.hlmando.com/ko/main.do) :   
     stacks : aws ml tools 
     responsibilities : mlops pipeline automation, data trasfer server  
   
-## - 🐱‍👤 contact  
+# - 🐱‍👤 contact  
 kangggunw3492@gmail.com
 
