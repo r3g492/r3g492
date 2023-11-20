@@ -14,9 +14,9 @@
        - build cdc pipeline to the indices(es)
        - maintain es clusters
      
-    maintaining pages : vaadin, wasm, js(ts)
+    ### maintaining pages : vaadin, wasm, js(ts)
      
-    ci/cd : aws code pipeline and github
+    ### ci/cd : aws code pipeline and github
    
 3. embedded, real-time application on vehicle :  
     stacks : c, microcontroller
