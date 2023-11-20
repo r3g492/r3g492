@@ -1,16 +1,15 @@
-## blog
-https://r3g492.github.io/skills-github-pages/
+## [blog](https://r3g492.github.io/skills-github-pages/)
 
 ## - 🐱‍🚀 i have worked on ...  
 1. kotlin/spring boot web service :  
-    ### push notification server :
-   kafka, postgresql, firebase
+    ### push notification server
+       stacks : kafka, postgresql, firebase
        - send push to residents
        - distribute push requests
        - make easy push api
      
-    ### search server :
-   kafka, elasticsearch, debezium, kibana
+    ### search server
+       stacks : kafka, elasticsearch, debezium, kibana
        - translate reservation, product, menu data into elasticsearch cluster
        - build cdc pipeline to the indices(es)
        - maintain es clusters
