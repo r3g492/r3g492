@@ -8,17 +8,19 @@
     - distribute push requests
     - make easy push api
 ### search server
-    stacks : kafka, elasticsearch, debezium, kibana
+    : kafka, elasticsearch, debezium, kibana
     - translate reservation, product, menu data into elasticsearch cluster
     - build cdc pipeline to the indices(es)
     - maintain es clusters
-### maintaining pages : vaadin, wasm, js(ts)  
-### ci/cd : aws code pipeline and github  
+### maintaining pages 
+    : vaadin, wasm, js(ts)  
+### ci/cd 
+    : aws code pipeline and github  
 ## embedded, real-time application on vehicle engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)  
-    stacks : c, microcontroller
+    : c, microcontroller
     responsibilities : dynamic application programming, testing, layering aspice abstractions
 ## smart factory mlops engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)  
-    stacks : aws ml tools 
+    : aws ml tools 
     responsibilities : mlops pipeline automation, data trasfer server  
   
 # 🐱‍👤 contact  
