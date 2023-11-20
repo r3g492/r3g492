@@ -2,19 +2,27 @@
 https://r3g492.github.io/skills-github-pages/
 
 ## - 🐱‍🚀 i have worked on ...  
-1. kotlin/spring boot web service : 
+1. kotlin/spring boot web service :  
     push notification server : kafka, postgresql, firebase
-    search server : kafka, elasticsearch, debezium
+       - send push to residents
+       - distribute push requests
+       - make easy push api
+     
+    search server : kafka, elasticsearch, debezium, kibana
+       - translate reservation, product, menu data into elasticsearch cluster
+       - build cdc pipeline to the indices(es)
+       - maintain es clusters
+     
     maintaining pages : vaadin, wasm, js(ts)
+     
     ci/cd : aws code pipeline and github
-    search/map : elasticsearch, kibana
    
 3. embedded, real-time application on vehicle :  
-    stacks : c, infineon tools, ibm rhapsody, matlab/simulink, aspice, microcontroller compilers, t32   
+    stacks : c, microcontroller
     responsibilities : dynamic application programming, testing, layering aspice abstractions
    
 4. smart factory mlops :   
-    stacks : java/spring, python/aws sagemaker, aws in general    
+    stacks : aws ml tools 
     responsibilities : mlops pipeline automation, data trasfer server  
   
 ## - 🐱‍👤 contact  
