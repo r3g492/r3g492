@@ -1,6 +1,6 @@
 # [blog](https://r3g492.github.io/skills-github-pages/)
 
-# 🐱‍🚀 i have worked on ...  
+# i have worked on ...  
 ## kotlin/spring boot web service developer at [HTBeyond](https://htbeyond.com/) (2022~)  
 ### push notification server  
     stacks : kafka, postgresql, firebase
@@ -23,6 +23,6 @@
     : aws ml tools 
     responsibilities : mlops pipeline automation, data trasfer server  
   
-# 🐱‍👤 contact  
+# contact  
 kangggunw3492@gmail.com
 
