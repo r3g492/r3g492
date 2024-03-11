@@ -13,7 +13,7 @@
     - build cdc pipeline to the indices(es)
     - maintain es clusters
 ### maintaining pages 
-    : vaadin, wasm, js(ts)  
+    : vaadin
 ### ci/cd 
     : aws code pipeline and github  
 ## embedded, real-time application on vehicle engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)  
