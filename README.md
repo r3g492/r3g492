@@ -2,8 +2,11 @@
 
 # i have worked on ...  
 ## kotlin/spring boot web service developer at [HTBeyond](https://htbeyond.com/) (2022~)  
+### member and authorization server
+    - sync member data to customer's edge computer
+    - replace cognito
 ### push notification server  
-    stacks : kafka, postgresql, firebase
+    stacks : kafka, postgresql
     - send push to residents
     - distribute push requests
     - make easy push api
