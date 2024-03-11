@@ -16,10 +16,10 @@
     : vaadin
 ### ci/cd 
     : aws code pipeline and github  
-## embedded, real-time application on vehicle engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)  
+## embedded, real-time application on vehicle engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2021)  
     : c, microcontroller
     responsibilities : dynamic application programming, testing, layering aspice abstractions
-## smart factory mlops engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)  
+## smart factory mlops engineer at [Mando](https://www.hlmando.com/ko/main.do) (2022~2022)  
     : aws ml tools 
     responsibilities : mlops pipeline automation, data trasfer server  
   
