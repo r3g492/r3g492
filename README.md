@@ -7,8 +7,8 @@
  [2](https://github.com/r3g492/blazethenet)
 
 # i have worked on ...  
-## kotlin/spring boot web service developer at [HTBeyond](https://htbeyond.com/) (2022~)  
-## embedded, real-time application on vehicle engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2021)
+## kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~)  
+## embedded, real-time application(c) on vehicle software engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2021)
 
 # contact  
 kangggunw3492@gmail.com
