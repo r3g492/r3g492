@@ -2,8 +2,7 @@
 # some funs
 - [snake game in go](https://github.com/r3g492/helloGame)
 # works in progress
- [1](https://github.com/r3g492/webhook-service)
- [2](https://github.com/r3g492/blazethenet)
+ [1](https://github.com/r3g492/blazethenet)
 
 # i have worked on ...  
 - kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~)  
