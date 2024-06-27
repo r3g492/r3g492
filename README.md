@@ -1,4 +1,7 @@
 # [algorithm solution & code snippets](https://r3g492.github.io/skills-github-pages/)
+- [BaekJoon] (https://www.acmicpc.net/user/kangggunw3492)
+- [LeetCode] (https://leetcode.com/u/R3g492/)
+
 # some funs
 - [snake game in go](https://github.com/r3g492/helloGame)
 - [dataGatheringServer](https://github.com/r3g492/dataGatherer)
