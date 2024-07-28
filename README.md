@@ -11,6 +11,7 @@
  [blockchain_trial](https://github.com/r3g492/blockchainproject)
 
 # i have worked on ...  
+- kotlin/java spring boot server developer at [trustay](https://www.trustay.me/) (2024~)
 - kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~2024)  
 - embedded, real-time application(c) on vehicle software engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2021)
 
