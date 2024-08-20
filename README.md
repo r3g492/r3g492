@@ -13,7 +13,7 @@
 # trails
 - kotlin/java spring boot server developer at [Yanolja-Trustay](https://www.trustay.me/) (2024~)
 - kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~2024)  
-- embedded, real-time application(c) on vehicle software engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2021)
+- embedded, real-time application(c) on vehicle software engineer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)
 
 # contact  
 kangggunw3492@gmail.com
