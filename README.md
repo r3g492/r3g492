@@ -9,6 +9,8 @@
 # works in progress
  - [go-raylib game](https://github.com/r3g492/blazethenet)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitwhiz&langs_count=8&hide=java,jupyter%20notebook&layout=compact&theme=onedark&border_color=333333&custom_title=Most%20Used%20Languages%20%28GitHub%29)](https://github.com/r3g492/github-readme-stats)
+
 # trails
 - kotlin/java spring boot server developer at [Yanolja-Trustay](https://www.trustay.me/) (2024~)
 - kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~2024)  
