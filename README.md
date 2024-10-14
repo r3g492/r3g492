@@ -12,6 +12,7 @@ kangggunw3492@gmail.com
     - [snake game in go](https://github.com/r3g492/helloGame)
     - [dataGatheringServer](https://github.com/r3g492/dataGatherer)
     - [fileSystemMonitoringUploader](https://github.com/r3g492/S3FileUpload)
+    - [computer_science_learning_examples_in_c](https://github.com/r3g492/cs_examples)
 - works in progress
     - [go-raylib game](https://github.com/r3g492/blazethenet)
 
