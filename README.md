@@ -9,8 +9,8 @@ server & game dev
 kangggunw3492@gmail.com
 
 # on my github ...
+[!Main_Portfolio: video game + AI train loop integration](https://github.com/r3g492/war-game-poc)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3g492&langs_count=8&hide=java,jupyter%20notebook&layout=compact&theme=onedark&border_color=333333&custom_title=Most%20Used%20Languages%20%28GitHub%29)](https://github.com/r3g492)  
-    - [WIP: 3d Car chasing game with RL model attached](https://github.com/r3g492/war-game-poc)  
     - [3D suspense game for Mystery Game Jam 2025](https://github.com/r3g492/MysteryGameJam2025)  
     - [2D shooting game for BrackeysGameJam 2025.1](https://github.com/r3g492/brackeysGameJam)  
     - [snake game in go](https://github.com/r3g492/helloGame)  
