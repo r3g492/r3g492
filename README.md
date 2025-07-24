@@ -5,20 +5,23 @@ server & game dev
 - kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~2024)  
 - embedded software & smart factory machine learning developer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)
 
-# contact  
-kangggunw3492@gmail.com
+# main portfolio   
+- [video game + AI train loop integration](https://github.com/r3g492/war-game-poc)
 
-# on my github ...
-[![Main_Portfolio: video game + AI train loop integration]](https://github.com/r3g492/war-game-poc)  
+# else  
+- [3D suspense game for Mystery Game Jam 2025](https://github.com/r3g492/MysteryGameJam2025)  
+- [2D shooting game for BrackeysGameJam 2025.1](https://github.com/r3g492/brackeysGameJam)  
+- [snake game in go](https://github.com/r3g492/helloGame)  
+- [dataGatheringServer](https://github.com/r3g492/dataGatherer)  
+- [fileSystemMonitoringUploader](https://github.com/r3g492/S3FileUpload)  
+- [computer_science_learning_examples_in_c](https://github.com/r3g492/cs_examples)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3g492&langs_count=8&hide=java,jupyter%20notebook&layout=compact&theme=onedark&border_color=333333&custom_title=Most%20Used%20Languages%20%28GitHub%29)](https://github.com/r3g492)  
-    - [3D suspense game for Mystery Game Jam 2025](https://github.com/r3g492/MysteryGameJam2025)  
-    - [2D shooting game for BrackeysGameJam 2025.1](https://github.com/r3g492/brackeysGameJam)  
-    - [snake game in go](https://github.com/r3g492/helloGame)  
-    - [dataGatheringServer](https://github.com/r3g492/dataGatherer)  
-    - [fileSystemMonitoringUploader](https://github.com/r3g492/S3FileUpload)  
-    - [computer_science_learning_examples_in_c](https://github.com/r3g492/cs_examples)  
 
 # [algorithm solution & code snippets](https://r3g492.github.io/skills-github-pages/)
 - [BaekJoon](https://www.acmicpc.net/user/kangggunw3492)
 - [LeetCode](https://leetcode.com/u/R3g492/)
+
+
+# contact  
+kangggunw3492@gmail.com
