@@ -14,7 +14,6 @@ server & game dev
 - [snake game in go](https://github.com/r3g492/helloGame)  
 - [dataGatheringServer](https://github.com/r3g492/dataGatherer)  
 - [fileSystemMonitoringUploader](https://github.com/r3g492/S3FileUpload)  
-- [computer_science_learning_examples_in_c](https://github.com/r3g492/cs_examples)  
 
 # [algorithm solution & code snippets](https://r3g492.github.io/skills-github-pages/)
 - [BaekJoon](https://www.acmicpc.net/user/kangggunw3492)
