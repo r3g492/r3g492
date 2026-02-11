@@ -1,7 +1,7 @@
 server & game dev
 
 # trails
-- kotlin/java spring boot server developer at [Yanolja-Trustay](https://www.trustay.me/) (2024~2025)
+- kotlin/java spring boot server developer at [Yanolja-Trustay](https://www.trustay.me/) (2024~2026)
 - kotlin/spring boot server developer at [HTBeyond](https://htbeyond.com/) (2022~2024)  
 - embedded software & smart factory machine learning developer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)
 
