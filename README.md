@@ -8,11 +8,12 @@ server & game dev
 - embedded software & smart factory machine learning developer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)
 
 # work environment experiences
-- code spring boot server
+- code java/kotlin on spring boot server
 - control k8s on cloud
 - control server instances on cloud directly
-- code C with in-house compiler
+- code c with in-house compiler
 - live code vehicle on vehicle
+- software test and software with hardware test
 
 # main portfolio   
 - [a raylib game](https://github.com/r3g492/coldkiller2)
