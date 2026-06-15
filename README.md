@@ -9,6 +9,7 @@ server & game dev
 
 # work environment experiences
 - code java/kotlin on spring boot server
+- go lang server and go lang client
 - control k8s on cloud
 - control server instances on cloud directly
 - code c with in-house compiler
