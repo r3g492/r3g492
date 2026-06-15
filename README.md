@@ -19,7 +19,7 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/t
 - software test and software with hardware test
 
 # main portfolio   
-- [a raylib game](https://github.com/r3g492/coldkiller2)
+- [a raylib-go game](https://github.com/r3g492/coldkiller2)
 
 # contact  
 kangggunw3492@gmail.com
