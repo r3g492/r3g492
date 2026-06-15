@@ -18,8 +18,5 @@ server & game dev
 # main portfolio   
 - [a raylib game](https://github.com/r3g492/coldkiller2)
 
-# [algorithm solution & code snippets](https://r3g492.github.io/skills-github-pages/)
-- [LeetCode](https://leetcode.com/u/R3g492/)
-
 # contact  
 kangggunw3492@gmail.com
