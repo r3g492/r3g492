@@ -19,7 +19,7 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/t
 - software test and software with hardware test
 
 # main portfolio   
-- [a raylib-go game](https://store.steampowered.com/app/4690070/Kill_Per_Second/)
+- [a raylib-go game](https://github.com/r3g492/coldkiller2)
 
 # contact  
 kangggunw3492@gmail.com
