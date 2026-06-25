@@ -10,10 +10,8 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/t
 - embedded software & smart factory machine learning developer at [Mando](https://www.hlmando.com/ko/main.do) (2019~2022)
 
 # work environment experiences
-- code java/kotlin on spring boot server
-- go lang server and go lang client
-- control k8s on cloud
-- control server instances on cloud directly
+- java/kotlin on spring boot server
+- go lang server
 - code c with in-house compiler
 - live code vehicle on vehicle
 - software test and software with hardware test
