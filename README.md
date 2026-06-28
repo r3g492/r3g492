@@ -1,5 +1,3 @@
-willing to do many things to acheive a good goal.
-
 server & game dev
 
 learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/tag/6.0)
@@ -12,11 +10,11 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/t
 # work environment experiences
 - java/kotlin on spring boot server
 - go lang server
-- code c with in-house compiler
-- live code vehicle on vehicle
-- software test and software with hardware test
+- embedded c
+- vehicle software
+- software test and software + hardware test
 
-# main portfolio   
+# portfolio   
 - [a raylib-go game](https://github.com/r3g492/coldkiller2)
 
 # contact  
