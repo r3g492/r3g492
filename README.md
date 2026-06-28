@@ -9,7 +9,7 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/t
 
 # work environment experiences
 - java/kotlin on spring boot server
-- go lang server
+- go lang applications
 - embedded c
 - vehicle software
 - software test and software + hardware test
