@@ -1,6 +1,6 @@
 server & game dev
 
-learning & contributing to [raylib](https://github.com/raysan5/raylib/releases/tag/6.0)
+learning & contributing to [raylib](https://github.com/raysan5/raylib)
 
 # trails
 - kotlin/java spring boot server developer at [Yanolja-Trustay](https://www.trustay.me/) (2024~2026)
