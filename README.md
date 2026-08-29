@@ -9,11 +9,10 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib)
 - embedded software at Mando (2019-2020)
 
 # work environment experiences
-- java/kotlin on spring boot server (6 years)
+- java/kotlin on spring boot server
 - aws + kubernetes: cluster operation, direct instance management (6 years)
 - msa, rest api design, rdbms + nosql
 - embedded c, vehicle software
-- software test and software + hardware test
 
 # portfolio   
 - [a raylib-go game](https://github.com/r3g492/coldkiller2)
