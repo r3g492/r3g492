@@ -14,7 +14,7 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib)
 - rdbms, nosql
 - embedded c, vehicle software
 
-# portfolio   
+# projects   
 - [a raylib-go game](https://github.com/r3g492/coldkiller2)
 - [game jam 2](https://github.com/r3g492/MysteryGameJam2025)
 - [game jam 1](https://github.com/r3g492/brackeysGameJam)
