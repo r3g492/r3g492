@@ -16,6 +16,8 @@ learning & contributing to [raylib](https://github.com/raysan5/raylib)
 
 # portfolio   
 - [a raylib-go game](https://github.com/r3g492/coldkiller2)
+- [game jam 2](https://github.com/r3g492/MysteryGameJam2025)
+- [game jam 1](https://github.com/r3g492/brackeysGameJam)
 
 # contact  
 kangggunw3492@gmail.com
